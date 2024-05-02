@@ -44,7 +44,7 @@ import time
 
 #HOST = '141.223.140.80' # 고다 워크스테이션
 #PORT = 12345 # Port 번호
-#API_KEY = "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"
+#API_KEY = ""
 
 ######################################
 
